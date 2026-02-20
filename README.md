@@ -28,6 +28,11 @@ pnpm dev
 bun dev
 ```
 
+For a preview build
+```bash
+npm run build
+``
+
 #### Homepage (menu)
 Open [http://localhost:3000](http://localhost:3000)
 
