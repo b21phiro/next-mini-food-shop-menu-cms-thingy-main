@@ -4,6 +4,7 @@
 + A simple cart-item picker for food items.
 + A simple toy-csv-database with a small CRUD-implementation, using Node.JS and nexts server components.
 + A simple CRUD-UI for the "menu-builder", or as i call it, the Admin page.
++ A frontpage to select and add items to the cart, and go to checkout.
 
 ### Worth mentioning
 - I made this in ~3–4 hours.
